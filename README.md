@@ -2,6 +2,8 @@
 
 An MCP server providing a range of cryptocurrency technical analysis indicators and strategies, empowering AI trading agents to efficiently analyze market trends and develop robust quantitative strategies.
 
+For more crypto-related MCP servers, see the [Kukapay MCP servers](https://github.com/kukapay/kukapay-mcp-servers).
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
